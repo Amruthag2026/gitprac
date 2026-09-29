@@ -1,2 +1,1 @@
-print("Helloo and hiiii")
-print("Login feature")
+print("Hello from Feature A")
